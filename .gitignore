@@ -2,4 +2,4 @@
 /dist
 package-lock.json
 
-accountKeyFirebase.json
+#accountKeyFirebase.json
